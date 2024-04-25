@@ -1,0 +1,4 @@
+pandas
+s3fs
+apache-airflow
+google-api-python-client
